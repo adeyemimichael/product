@@ -1,0 +1,18 @@
+@font-face {
+    font-family:fraunces;
+    src: url('../public/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf');
+}
+.fraunces{
+    font-family:fraunces;
+    font-weight: 700;
+   
+}
+@font-face {
+    font-family:montserrat ;
+    src: url('../public/Montserrat-VariableFont_wght.ttf');
+}
+.montse{
+    font-family:montserrat ;
+    font-weight: 400;
+    color:text-neutral-400;
+}
